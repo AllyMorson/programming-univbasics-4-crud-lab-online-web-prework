@@ -6,7 +6,8 @@ def puppies = ["bulldogs", "terrier", "poodle"]
   
 end
 
-def add_element_to_end_of_array(array, element)
+def puppies = ["bulldogs", "terrier", "poodle"]
+  puppies << "labs"
   
 end
 
