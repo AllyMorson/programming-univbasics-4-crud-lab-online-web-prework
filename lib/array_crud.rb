@@ -16,15 +16,18 @@ def puppies = ["bulldogs", "terrier", "poodle"]
   
 end
 
-def remove_element_from_end_of_array(array)
+def puppies = ["bulldogs", "terrier", "poodle"]
+  puppies.unshift ("labs")
   
 end
 
-def remove_element_from_start_of_array(array)
+def puppies = ["bulldogs", "terrier", "poodle"]
+  puppies.pop ("poodle")
   
 end
 
-def retrieve_element_from_index(array, index_number)
+def puppies = ["bulldogs", "terrier", "poodle"]
+  puppies [1]
   
 end
 
