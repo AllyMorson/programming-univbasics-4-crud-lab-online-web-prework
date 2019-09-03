@@ -2,7 +2,7 @@ def my_array =[ ]
   
 end
 
-def create_an_array
+def puppies = ["bulldogs", "terrier", "poodle"]
   
 end
 
